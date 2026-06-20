@@ -31,7 +31,7 @@ Collection Mapping is used to store multiple values such as List, Set, and Map f
 
 Stores employee details.
 
-### Collection Tables
+### Collection Tables ###
 
 Stores employee-related collection data such as:
 
