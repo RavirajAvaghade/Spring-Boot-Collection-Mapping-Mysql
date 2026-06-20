@@ -40,7 +40,7 @@ Stores employee-related collection data such as:
 * Skills
 * Courses
 
-## 📖 Annotations Used
+## 📖 Annotations Used ##
 
 * `@Entity`
 * `@Id`
