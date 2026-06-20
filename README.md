@@ -16,7 +16,7 @@ Collection Mapping is used to store multiple values such as List, Set, and Map f
 * Maven
 * Eclipse IDE
 
-## 📂 Features
+## 📂 Features ##
 
 * Collection Mapping using `@ElementCollection`
 * List Collection Mapping
