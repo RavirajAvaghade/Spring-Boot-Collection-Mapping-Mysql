@@ -25,7 +25,7 @@ Collection Mapping is used to store multiple values such as List, Set, and Map f
 * Automatic Table Creation using Hibernate
 * MySQL Database Integration
 
-## 🗄️ Database Tables
+## 🗄️ Database Tables ##
 
 ### Employee Table
 
