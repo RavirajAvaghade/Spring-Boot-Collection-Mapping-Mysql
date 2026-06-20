@@ -59,7 +59,7 @@ Stores employee-related collection data such as:
 5. Run the Spring Boot Application
 6. Verify tables in MySQL
 
-## 📸 Output
+## 📸 Output ##
 
 The application creates parent and collection tables in MySQL and stores collection data successfully.
 
