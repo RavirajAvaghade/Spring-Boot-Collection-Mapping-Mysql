@@ -6,7 +6,7 @@ This project demonstrates Collection Mapping in Spring Boot using Spring Data JP
 
 Collection Mapping is used to store multiple values such as List, Set, and Map for a single entity in a separate collection table.
 
-## 🚀 Technologies Used
+## 🚀 Technologies Used ##
 
 * Java 17
 * Spring Boot
