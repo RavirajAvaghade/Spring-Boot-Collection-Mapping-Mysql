@@ -50,7 +50,7 @@ Stores employee-related collection data such as:
 * `@Column`
 * `@MapKeyColumn`
 
-## ⚙️ How to Run
+## ⚙️ How to Run ##
 
 1. Clone the repository
 2. Open the project in Eclipse or IntelliJ IDEA
