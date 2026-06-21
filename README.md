@@ -63,7 +63,7 @@ Stores employee-related collection data such as:
 
 The application creates parent and collection tables in MySQL and stores collection data successfully.
 
-## 👨‍💻 Author
+## 👨‍💻 Author ###
 
 **Raviraj Yuvraj Avaghade**
 
